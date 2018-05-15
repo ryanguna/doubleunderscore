@@ -1,2 +1,2 @@
 # doubleunderscore
-doubleunderscore.js is a utility-belt library for JavaScript that i created that provides support for my usually used functionalities.
+doubleunderscore.js is a utility-belt library for javaScript that i created that provides support for my usually used functionalities.
