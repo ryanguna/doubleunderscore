@@ -1,0 +1,26 @@
+{
+  "name": "doubleunderscore",
+  "version": "1.0.1",
+  "description": "doubleunderscore.js is a utility-belt library for javaScript that i created that provides support for my usually used functionalities.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RyanGunawardana/doubleunderscore.git"
+  },
+  "keywords": [
+    "helper"
+  ],
+  "author": "Ryan Gunawardana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RyanGunawardana/doubleunderscore/issues"
+  },
+  "homepage": "https://github.com/RyanGunawardana/doubleunderscore#readme",
+  "dependencies": {
+    "node-datetime": "^2.0.6"
+  }
+}
