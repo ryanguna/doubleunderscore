@@ -1,4 +1,6 @@
-module.exports = {
-    __logWithDate :  require('./modules/__logWithDate.js'),
-    __longestWord :  require('./modules/__longestWord.js')
+module.exports  = {
+    __stringWithDate :  require('./modules/__stringWithDate'),
+    __longestWord    :  require('./modules/__longestWord'),
+    __factorial      :  require('./modules/__factorial'),
+    __reverseString  :  require('./modules/__reverseString')
 };
