@@ -19,6 +19,9 @@
   "bugs": {
     "url": "https://github.com/RyanGunawardana/doubleunderscore/issues"
   },
+  "files": [
+    "Readme.md"
+  ],
   "homepage": "https://github.com/RyanGunawardana/doubleunderscore#readme",
   "dependencies": {
     "node-datetime": "^2.0.6"
